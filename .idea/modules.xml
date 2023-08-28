@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Uyentest2.iml" filepath="$PROJECT_DIR$/Uyentest2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/UyenNTT_B1.iml" filepath="$PROJECT_DIR$/UyenNTT_B1.iml" />
+>>>>>>> 7e769dd21ce185abf3c1a3002904a2f5b93acb3b
     </modules>
   </component>
 </project>
